@@ -119,11 +119,31 @@ streamlit run application.py
 
 ------------------------------------------------------------------------
 
-## 📷 Suggested Screenshots
+## 📷 Screenshots
 
-Include screenshots of: - Dashboard - Analytics - CRUD Operations -
-Filter Module
+# Dashboard
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
+# Analytics
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+# crud
+![alt text](image-8.png)
+
+# SQL
+![alt text](image-9.png)
+
+# Filter
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
 ------------------------------------------------------------------------
 
 ## 🔮 Future Enhancements
